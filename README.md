@@ -14,7 +14,6 @@ I'm currently expanding my IT knowledge through hands-on projects, including:
 - 🍓 **Raspberry Pi Projects** – Experimenting with **automation & lightweight server setups**.  
 
 ## 📬 Let’s Connect!  
-- 💼 **[LinkedIn](https://linkedin.com/in/yourname)**  <a href="https://www.linkedin.com/in/noesilva/"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-- 🔗 **[GitHub](https://github.com/yourusername)**  
+- 💼 **[LinkedIn](https://www.linkedin.com/in/noesilva)** 
 
 

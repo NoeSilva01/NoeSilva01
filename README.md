@@ -1,17 +1,21 @@
-# Hello, I'm Noé! 👋  
-Welcome to my GitHub profile! I'm an **IT professional** focused on **hardware, software, and technical support**, actively building hands-on experience in **networking, Linux, and system administration**. I have a strong interest in **cybersecurity and automation** and enjoy working on **home lab projects** to sharpen my skills.  
+# Hello, I'm Noé! 👋
+Welcome to my GitHub! I’m a tech-savvy professional with 5+ years in technical support and troubleshooting, recently earned **CompTIA A+ (2025)**, and advancing IT expertise through hands-on projects. I’m curious about networking, system administration, and cybersecurity, and I tinker with home labs to sharpen my skills.
 
-## 🔧 Skills & Focus Areas  
-- 🖥 **Technical Support & Troubleshooting** (Hardware & Software)  
-- 🌐 **Networking & IT Infrastructure** (Basic setup, configuration, and maintenance)  
-- 🐧 **Linux & Command Line Fundamentals**  
-- ⚙️ **System Administration & Home Lab Projects**  
+## 🔧 Skills & Focus Areas
+- 🖥 **Technical Support**: Hardware/software diagnostics, remote troubleshooting  
+- 🌐 **Networking**: Basic setup, VPN, wireless diagnostics  
+- 🐧 **Linux**: Command line basics, VM experimentation  
+- ⚙️ **System Admin**: Home lab configs, process optimization  
 
-## 📚 Current Learning & Projects  
-I'm currently expanding my IT knowledge through hands-on projects, including:  
-- 🏠 **Home Lab Setup** – Working with **VMs & Linux** to explore networking and system administration.  
-- 🔌 **Networking & Security Basics** – Learning practical networking skills with a focus on **troubleshooting & security fundamentals**.  
-- 🍓 **Raspberry Pi Projects** – Experimenting with **automation & lightweight server setups**.  
+## 📚 Current Learning & Projects
+Building IT skills through hands-on work:  
+- 🏠 **Home Lab**: Running VMs (e.g., VirtualBox) on Linux to test networking setups.  
+- 🔍 **Network Troubleshooting**: Exploring packet sniffing and security basics.  
+- 🍓 **Raspberry Pi**: Setting up a lightweight server for automation experiments.  
+
+## 🎓 Certifications
+- CompTIA A+ (2025)  
+- Microsoft Azure Fundamentals AZ-900 (In Progress)
 
 ## 📬 Let’s Connect!  
 - 💼 **[LinkedIn](https://www.linkedin.com/in/noesilva)** 

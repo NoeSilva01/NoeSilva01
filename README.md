@@ -15,7 +15,6 @@ Building IT skills through hands-on work:
 
 ## 🎓 Certifications
 - CompTIA A+ (2025)  
-- Microsoft Azure Fundamentals AZ-900 (In Progress)
 
 ## 📬 Let’s Connect!  
 - 💼 **[LinkedIn](https://www.linkedin.com/in/noesilva)** 

@@ -1,5 +1,9 @@
-# Hello, I'm Noé! 👋
-Welcome to my GitHub! I’m a tech-savvy professional with 5+ years in technical support and troubleshooting, certified with CompTIA A+ (2025), and advancing IT expertise through hands-on projects. I’m curious about networking, system administration, and cybersecurity, and I tinker with home labs to sharpen my skills.
+# Noé's IT and Cybersecurity Project Portfolio 🔐
+Welcome to my GitHub! I'm a tech-savvy professional specializing in technical support and troubleshooting, proudly holding a CompTIA A+ certification. I'm dedicated to expanding my IT expertise through practical, hands-on projects. My interests lie in networking, system administration, and cybersecurity, and I love to tinker with home labs to hone my skills.
+
+## ⚠️ Vulnerability Management Projects
+
+## 🚨 Threat Hunting and Security Operations
 
 ## 🔧 Skills & Focus Areas
 - 🖥 **Technical Support**: Hardware/software diagnostics, remote troubleshooting  
